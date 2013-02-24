@@ -1,0 +1,1 @@
+A web chat client & server which I was going to use for a MMORPG for the web but the project never took off. You can chat, send private messages and see who's online in the chat. Hopefully sometime in the future I can come back to this project and continue the development. Feel free to use any code you'd like.  
